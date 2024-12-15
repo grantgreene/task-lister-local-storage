@@ -1,6 +1,6 @@
 # Task Lister - A Simple Task Tracking App
 
-![Screenshot 1](./img/screenshot-1.JPG)
+![Screenshot 1](./dist/img/screenshot-1.JPG)
 
 ---
 
@@ -43,12 +43,12 @@ The tasks are saved to local storage, so as long as your local storage is preser
 ## Demo
 
 Link below to working Demo  
-[Task Lister](#)
+[Task Lister](https://grantgreene.github.io/task-lister-local-storage/)
 
 ---
 
 ## Additional Images
 
-![Screenshot 2](./img/screenshot-2.JPG)
-![Screenshot 3](./img/screenshot-3.JPG)
-![Screenshot 4](./img/screenshot-4.JPG)
+![Screenshot 2](./dist/img/screenshot-2.JPG)
+![Screenshot 3](./dist/img/screenshot-3.JPG)
+![Screenshot 4](./dist/img/screenshot-4.JPG)
